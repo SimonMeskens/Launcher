@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Not a Test",
+      "name" : "Test",
+      "version" : "2018-01-19-03-03-40",
+      "location" : "test.json",
+      "priority" : 0
+    }
+  ]
+}
